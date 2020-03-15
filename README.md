@@ -16,4 +16,4 @@
   3º A vantagem de usar o JavaScript é pela diversidade de recursos que a linguagem permite e pela interação com o usuário que me permitia.
   
   
-  Obs: A aplicação não está completa, fiz até onde meu conhecimento permitia
+  Obs: A aplicação não está completa, fiz até onde meu conhecimento permitia e não sei se era exatamente isso que vocês queriam
